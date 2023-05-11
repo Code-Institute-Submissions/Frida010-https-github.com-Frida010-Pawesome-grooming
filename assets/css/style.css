@@ -35,8 +35,26 @@ h2 {
 
 }
 
+#menu,
+#logo {
+    line-height: 80px;
+}
+
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 20px;
+    margin-right: 45px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #262626;
+}
+
+.active {
+    border-bottom: 1px solid #262626;
 }

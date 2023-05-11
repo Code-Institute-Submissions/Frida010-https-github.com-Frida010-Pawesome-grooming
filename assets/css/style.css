@@ -9,4 +9,20 @@
 body {
     font-family: 'Hind', sans-serif;
     font-weight: 300;
+    color: #262626;
+}
+
+/*  heading and logo */
+
+h1,
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #262626;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }

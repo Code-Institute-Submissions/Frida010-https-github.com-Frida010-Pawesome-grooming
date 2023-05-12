@@ -58,3 +58,24 @@ h2 {
 .active {
     border-bottom: 1px solid #262626;
 }
+
+/*  header background-image and text */
+
+.hero-image {
+    background-image: url('../images/pexels-lukas-317333\ \(2\).jpg');
+    background-color: white;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}

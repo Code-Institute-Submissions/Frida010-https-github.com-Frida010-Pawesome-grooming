@@ -5,4 +5,4 @@ The Pawesome grooming website is a page for dog owners looking for a place to ge
 On this webpage you will be able to find information about the services offerd. 
 Pictures of dogs being groomed. 
 
-
+All images are from Pexels.com

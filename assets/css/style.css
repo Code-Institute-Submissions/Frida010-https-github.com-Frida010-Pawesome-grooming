@@ -103,6 +103,59 @@ h2 {
     color: #262626;
 }
 
-#about {
-    margin: 75px;
+/*  row pictures  */
+
+* {
+    box-sizing: border-box;
 }
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+
+/*  section about and services  */
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 30px;
+
+}
+
+#info {
+    margin: 150px;
+}
+
+#about {
+    float: center;
+    text-align: center;
+    margin-top: 100px;
+    background-color: lightslategray;
+
+
+}
+
+#services {
+    float: center;
+    text-align: center;
+    margin-top: 50px;
+    background-color: lightslategray;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+/*   */

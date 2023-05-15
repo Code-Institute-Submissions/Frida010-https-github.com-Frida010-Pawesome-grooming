@@ -6,3 +6,7 @@ On this webpage you will be able to find information about the services offerd.
 Pictures of dogs being groomed. 
 
 All images are from Pexels.com
+
+Have used w3schools.com as help whit how to write some of the code.
+
+

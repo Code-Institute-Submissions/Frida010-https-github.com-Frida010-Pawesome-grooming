@@ -193,3 +193,13 @@ footer {
     padding: 5%;
     color: #262626;
 }
+
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-gap: 0;
+
+
+}

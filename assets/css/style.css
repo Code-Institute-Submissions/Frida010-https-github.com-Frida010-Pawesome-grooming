@@ -111,8 +111,10 @@ h2 {
 
 .column {
     float: left;
-    width: 33.33%;
+    width: 25%;
     padding: 5px;
+
+
 }
 
 .row::after {
@@ -121,6 +123,10 @@ h2 {
     display: table;
 }
 
+.row {
+    margin: 100px;
+
+}
 
 
 /*  section about and services  */
@@ -142,8 +148,7 @@ h2 {
     text-align: center;
     margin-top: 100px;
     background-color: lightslategray;
-
-
+    color: #262626;
 }
 
 #services {
@@ -151,6 +156,7 @@ h2 {
     text-align: center;
     margin-top: 50px;
     background-color: lightslategray;
+    color: #262626;
 }
 
 ul {

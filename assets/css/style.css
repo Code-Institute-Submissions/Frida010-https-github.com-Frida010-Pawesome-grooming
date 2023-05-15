@@ -126,6 +126,7 @@ h2 {
 .row {
     margin: 100px;
 
+
 }
 
 
@@ -200,6 +201,9 @@ footer {
     clear: both;
     line-height: 0;
     column-gap: 0;
+    margin: 120px;
+}
 
-
+img {
+    display: inline;
 }

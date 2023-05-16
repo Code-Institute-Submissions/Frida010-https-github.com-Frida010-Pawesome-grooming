@@ -222,3 +222,42 @@ footer {
 img {
     display: inline;
 }
+
+
+/* Book Now page */
+
+section {
+    margin: 100px;
+    border-radius: 50px;
+    border: 1px solid #262626;
+    background-color: lightslategray;
+    padding: 50px;
+    font-weight: 400;
+}
+
+input[type=text],
+input[type=email],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #262626;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 20%;
+    background-color: #262626;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: 1px solid white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #353434;
+}

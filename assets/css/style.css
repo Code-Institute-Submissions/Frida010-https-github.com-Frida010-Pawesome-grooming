@@ -48,24 +48,6 @@ h2 {
 
 /*  ändra? */
 
-.hero-image {
-    background-image: url('../images/pexels-lukas-317333\ \(2\).jpg');
-    background-color: beige;
-    height: 300px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-}
-
-.hero-text {
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-
-}
-
 
 /*  navigation */
 
@@ -102,7 +84,7 @@ h2 {
 /*  header background-image and text */
 
 .hero-image {
-    background-image: url('../images/pexels-magda-ehlers-10900775.jpg');
+    background-image: url('../images/pexels-piyapong-sayduang-5623203.jpg');
     background-color: white;
     height: 300px;
     background-position: center;

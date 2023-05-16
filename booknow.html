@@ -41,19 +41,33 @@
 
     <section class="booknow">
         <form action="#" method="post">
-            <h2>Book grooming now!</h2>
+            <h2>Book a Pawesome grooming now!</h2>
 
             <label for="fname" id="fname">First Name</label>
             <input type="text" id="fname" name="first_name" required>
-
+            <br>
             <label for="lname" id="lname">Last Name</label>
             <input type="text" id="lname" name="last_name" required>
-
+            <br>
             <label for="email" id="email">Email Address</label>
             <input type="email" id="email" name="email_address" required>
-
-            <label></label>
-
+            <br>
+            <label for="day">Weekday</label>
+            <select id="day" name="day">
+                <option value="monday">Monday</option>
+                <option value="tuesday">Tuesday</option>
+                <option value="wednesday">Wednesday</option>
+                <option value="thursday">Thursday</option>
+                <option value="friday">Friday</option>
+            </select>
+            <br>
+            <label for="time">Time</label>
+            <select id="time" name="time">
+                <option value="08:00">08:00 - 10:30</option>
+                <option value="11:00">11:00 - 13:30</option>
+                <option value="14:00">14:00 - 16:30</option>
+            </select>
+            <br>
             <input type="submit" value="Book Now!">
 
         </form>

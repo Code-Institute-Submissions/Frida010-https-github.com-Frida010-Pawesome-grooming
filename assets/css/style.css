@@ -12,6 +12,16 @@ body {
     color: #262626;
 }
 
+section {
+
+    margin: 100px;
+    border-radius: 50px;
+    border: 1px solid #262626;
+    background-color: lightslategray;
+    padding: 50px;
+    font-weight: 400;
+}
+
 /*  heading and logo */
 
 h1,
@@ -119,9 +129,7 @@ h2 {
 .column {
     float: left;
     width: 25%;
-    padding: 5px;
-
-
+    padding: 40px;
 }
 
 .row::after {
@@ -141,7 +149,7 @@ h2 {
 
 .center {
     margin: auto;
-    width: 50%;
+    width: 90%;
     border: 3px solid black;
     padding: 30px;
 
@@ -154,7 +162,7 @@ h2 {
 #about {
     float: center;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
     background-color: lightslategray;
     color: #262626;
 }
@@ -215,8 +223,10 @@ footer {
 #photos {
     clear: both;
     line-height: 0;
+    column-count: 5;
     column-gap: 0;
     margin: 120px;
+
 }
 
 img {
@@ -226,24 +236,28 @@ img {
 
 /* Book Now page */
 
-section {
+
+
+.booknow {
+
     margin: 100px;
     border-radius: 50px;
     border: 1px solid #262626;
     background-color: lightslategray;
     padding: 50px;
     font-weight: 400;
+    text-align: center;
 }
 
 input[type=text],
 input[type=email],
 select {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
+    width: 50%;
+    padding: 15px 20px;
+    margin: 30px 30px;
     display: inline-block;
     border: 1px solid #262626;
-    border-radius: 4px;
+    border-radius: 50px;
     box-sizing: border-box;
 }
 

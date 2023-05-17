@@ -9,4 +9,6 @@ All images are from Pexels.com
 
 Have used w3schools.com as help whit how to write some of the code.
 
+Used imagecolorpicker.com to identify the colors to match whit the hero image. 
+
 

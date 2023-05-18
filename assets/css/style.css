@@ -42,7 +42,7 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 400%;
+    font-size: 350%;
 }
 
 /*  ändra? */
@@ -260,22 +260,16 @@ input[type=submit]:hover {
 /* For larger to medium screens siz from 1710px wide and down */
 @media screen and (max-width: 1710px) {
 
-img {
-   width: 100%;
-}
-
-
-
 #logo {
-    font-size: 350%;
+    font-size: 300%;
    }
 
    #photos {
     margin: 50px;
     padding: 15px;
+    line-height: 0px;
+    column-gap: 0px;
 }
-
-
 
 }
 
@@ -286,7 +280,7 @@ img {
 
 
 #logo {
-    font-size: 300%;
+    font-size: 250%;
 }
 
 .column > img {
@@ -295,7 +289,6 @@ img {
 
 .column {
     padding: 1px;
-
 }
 
 #row {
@@ -307,16 +300,46 @@ img {
     font-size: 120%;
 }
 
-h2 {
-
-}
-
 }
 
 
-/* For medium screen sizes from 1510px wide and down */
+/* For medium to smaller screen sizes from 1310px wide and down */
 
-@media screen and (max-width: 1305px) {
+@media screen and (max-width: 1310px) {
+    #logo {
+        font-size: 200%;
+    }
+    
+    .column {
+        padding: 0px;
+    }
+    
+    #row {
+        margin: 50px;
+        padding: 10px;
+    }
+    
+    #menu {
+        font-size: 110%;
+    }
+
+    #photos {
+        padding: 10px;
+        
+    }
+    
+    img {
+        border-radius: 15%;
+    }
+    
+}
+
+
+
+
+/* For medium to smaller screen sizes from 1310px wide and down */
+
+@media screen and (max-width: 1310px) {
 
 
 

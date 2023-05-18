@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Hind&family=Montserrat:wght@200&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Quicksand:wght@500&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +6,7 @@
 }
 
 body {
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-weight: 500;
     color: #262626;
 }
@@ -30,7 +29,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #262626;
-    font-weight: 1000;
+    
 }
 
 h2 {
@@ -54,13 +53,11 @@ h2 {
 #menu {
     font-size: 150%;
     letter-spacing: 3px;
-
+    text-transform: uppercase;
+    padding: 10px;
 }
 
-#menu,
-#logo {
-    line-height: 80px;
-}
+
 
 #menu li {
     float: right;
@@ -126,11 +123,11 @@ h2 {
 
 
 #row {
-    margin: 100px 50px 50px;
+    margin: 50px;
     border-radius: 50px;
     border: 2px solid #262626;
     background-color: #737577;
-    padding: 50px;
+    padding: 15px;
     font-weight: 400;
 }
 
@@ -147,18 +144,21 @@ h2 {
     border-radius: 50px;
 }
 
-#info {
-    margin: 150px;
-}
-
-
-#about,
 #services,
 #address,
 #contact {
     float: center;
     text-align: center;
     margin-top: 50px;
+    background-color: #b4b6bc;
+    color: #262626;
+}
+
+#about
+{
+    float: center;
+    text-align: center;
+    margin-top: 10px;
     background-color: #b4b6bc;
     color: #262626;
 }
@@ -199,7 +199,8 @@ background-image:  url('../images/pexels-piyapong-sayduang-5623203.jpg');
     line-height: 20px;
     column-count: 5;
     column-gap: 10px;
-    margin: 100px 50px;
+    margin: 50px;
+    padding: 15px;
 
 }
 
@@ -216,7 +217,7 @@ img {
 
 .booknow {
 
-    margin: 100px 50px;
+    margin: 50px;
     border-radius: 50px;
     border: 1px solid #262626;
     background-color: #b4b6bc;
@@ -263,25 +264,18 @@ img {
    width: 100%;
 }
 
-section {
 
-    margin: 50px;
-    border-radius: 50px;
-    border: 2px solid #262626; 
-    padding: 50px;
-    font-weight: 400;
-}
-#row {
-    margin: 100px 50px 50px;
-    border-radius: 50px;
-    border: 2px solid #262626;
-    padding: 50px;
-    font-weight: 400;
-}
 
 #logo {
     font-size: 350%;
    }
+
+   #photos {
+    margin: 50px;
+    padding: 15px;
+}
+
+
 
 }
 
@@ -290,9 +284,6 @@ section {
 
 @media screen and (max-width: 1510px)  { 
 
-#photos {
-    column-count: 3;
-}
 
 #logo {
     font-size: 300%;
@@ -300,13 +291,24 @@ section {
 
 .column > img {
     width: 100%;
-    column-count: 2;
 }
 
 .column {
-    float: left;
-    width: 50%;
-    padding: 5%;
+    padding: 1px;
+
+}
+
+#row {
+    margin: 50px;
+    padding: 15px;
+}
+
+#menu {
+    font-size: 120%;
+}
+
+h2 {
+
 }
 
 }

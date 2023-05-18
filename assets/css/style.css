@@ -114,17 +114,16 @@ h2 {
     padding: 40px;
 }
 
-.row::after {
+#row::after {
     content: "";
     clear: both;
     display: table;
 }
 
-.row {
+#row {
     margin: 100px;
-
-
 }
+
 
 
 /*  section about, services and address */
@@ -162,8 +161,8 @@ ul {
 /*  footer- social media */
 
 footer {
-    height: 150px;
-
+    height: 250px;
+background-image:  url('../images/pexels-piyapong-sayduang-5623203.jpg');
 }
 
 .social-media {
@@ -180,6 +179,7 @@ footer {
     padding: 5%;
     color: #262626;
 }
+
 
 /* gallery */
 
@@ -237,4 +237,14 @@ input[type=submit] {
 
 input[type=submit]:hover {
     background-color: #353434;
+}
+
+
+/* media queries */
+
+/* For larger to medium screens siz from 1584px wide and down */
+@media screen and (max-width: 1584px) {
+#row {
+    column-count: 2;
+}
 }

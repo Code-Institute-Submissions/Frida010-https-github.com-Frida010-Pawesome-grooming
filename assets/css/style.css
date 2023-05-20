@@ -15,7 +15,7 @@ section {
 
     margin: 2%;
     border-radius: 50px;
-    border: 2px solid #262626;
+    border: 1px solid #262626;
     background-color: #737577;
     padding: 2%;
 }
@@ -49,7 +49,7 @@ h2 {
     font-size: 150%;
     letter-spacing: 3px;
     text-transform: uppercase;
-    padding: 1%;
+    padding: 2%;
 }
 
 #menu li {
@@ -118,7 +118,7 @@ h2 {
 #row {
     margin: 2%;
     border-radius: 50px;
-    border: 2px solid #262626;
+    border: 1px solid #262626;
     background-color: #737577;
     padding: 1%;
 
@@ -129,7 +129,7 @@ h2 {
 .center {
     margin: auto;
     width: 98%;
-    border: 2px solid black;
+    border: 1px solid black;
     padding: 2%;
     border-radius: 50px;
 }
@@ -164,6 +164,11 @@ ul {
 footer {
     height: 250px;
 background-image:  url('../images/pexels-piyapong-sayduang-5623203.jpg');
+background-color: #b4b6bc;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
 }
 
 .social-media {
@@ -207,7 +212,7 @@ img {
 
     margin: 2%;
     border-radius: 50px;
-    border: 2px solid #262626;
+    border: 1px solid #262626;
     background-color: #b4b6bc;
     padding: 2%;
     text-align: center;
@@ -227,12 +232,12 @@ select {
 
 input[type=submit] {
     width: 25%;
-    background-color: #262626;
+    background-color: #737577;
     color: white;
     padding: 1%;
     margin: 2%;
-    border: 2px solid white;
-    border-radius: 4px;
+    border: 1px solid #262626;
+    border-radius: 50px;
     cursor: pointer;
 }
 
@@ -241,3 +246,256 @@ input[type=submit]:hover {
 }
 
 
+/* media queries */
+
+
+/* For larger to medium screens siz from 1710px wide and down */
+@media screen and (max-width: 1710px) {
+
+
+#logo {
+    font-size: 300%;
+   }
+
+}
+
+
+
+
+/* For medium screen sizes from 1510px wide and down */
+
+
+@media screen and (max-width: 1510px)  {
+
+    h2 {
+        font-size: 130%;
+    }
+   
+    footer {
+        height: 200px;
+    }
+
+
+    .hero-image {
+        height: 250px;
+    }
+
+
+#logo {
+    font-size: 250%;
+}
+
+
+#menu {
+    font-size: 130%;
+}
+
+}
+
+/* For medium to smaller screen sizes from 1310px wide and down */
+
+
+@media screen and (max-width: 1310px) {
+
+    h2 {
+        font-size: 110%;
+    }
+
+
+    footer {
+        height: 170px;
+    }
+    
+    section {
+        border-radius: 20px;
+    }
+
+    .center {
+        border-radius: 20px;
+       }
+
+    .hero-image {
+        height: 230px;
+    }
+
+    .booknow {
+        border-radius: 20px;
+    }
+
+    #logo {
+        font-size: 200%;
+    }
+   
+    #menu {
+        font-size: 110%;
+    
+    }
+
+    #row {
+        border-radius: 20px;
+    }
+
+}
+
+/* For smaller screen sizes from 910px wide and down */
+
+
+@media screen and (max-width: 910px) {
+
+    h2 {
+    font-size: 100%;
+   }
+
+    ul {
+    font-size: 90%;
+   }
+
+    footer {
+    height: 150px;
+   }
+   
+   .hero-image {
+    height: 180px;
+   }
+
+    #logo {
+    font-size: 150%;
+   }
+   
+    #menu {
+        font-size: 100%;
+    }
+
+    #photos {
+        column-count: 3;
+    }
+
+}
+
+
+/* For smaller screen sizes from 710px wide and down */
+
+
+@media screen and (max-width: 710px) {
+
+        h2 {
+        font-size: 90%;
+       }
+   
+        ul {
+        font-size: 70%;
+       }
+
+       label {
+        font-size: 80%;
+       }
+   
+        footer {
+        height: 150px;
+       }
+       
+       .hero-image {
+        height: 150px;
+       }
+   
+       .column {
+        width: 49.99999%;
+        padding: 0.5%;
+       }
+
+        #logo {
+        font-size: 125%;
+       }
+       
+        #menu {
+            font-size: 90%;
+            padding: 3%;
+        }
+   
+        #photos {
+            column-count: 2;
+            padding: 2%; 
+        }
+ 
+
+
+}
+
+/* For smaller screen sizes from 610px wide and down */
+
+@media screen and (max-width: 610px) {
+
+    h2 {
+        font-size: 90%;
+       }
+   
+        ul {
+        font-size: 70%;
+       }
+   
+        footer {
+        height: 150px;
+       }
+       
+       .hero-image {
+        height: 150px;
+       }
+   
+       .column {
+        width: 49.99999%;
+        padding: 0.5%;
+       }
+
+        #logo {
+        font-size: 100%;
+       }
+       
+        #menu {
+            font-size: 90%;
+            padding: 5%;
+        }
+   
+}
+
+/* For smaller screen sizes from 510px wide and down */
+
+@media screen and (max-width: 510px) {
+
+    h2 {
+        font-size: 70%;
+       }
+   
+        ul {
+        font-size: 70%;
+       }
+   
+        footer {
+        height: 125px;
+       }
+       
+       .hero-image {
+        height: 125px;
+       }
+   
+       .column {
+        width: 49.99999%;
+        padding: 0.5%;
+       }
+
+        #logo {
+        font-size: 85%;
+       }
+       
+        #menu {
+            font-size: 70%;
+            padding: 5%;
+        }
+   
+      
+
+
+} 
+
+/* For smaller screen sizes from 450px wide and down */
+
+@media screen and (max-width: 450px)

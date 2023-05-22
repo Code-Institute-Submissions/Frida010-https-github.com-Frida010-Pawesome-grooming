@@ -38,7 +38,7 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 350%;
+    font-size: 400%;
 }
 
 
@@ -49,7 +49,7 @@ h2 {
     font-size: 150%;
     letter-spacing: 3px;
     text-transform: uppercase;
-    padding: 2%;
+    padding: 3%;
 }
 
 #menu li {
@@ -128,7 +128,7 @@ h2 {
 
 .center {
     margin: auto;
-    width: 98%;
+    width: 100%;
     border: 1px solid black;
     padding: 2%;
     border-radius: 50px;
@@ -249,7 +249,7 @@ input[type=submit]:hover {
 /* media queries */
 
 
-/* For larger to medium screens siz from 1710px wide and down */
+/* For larger to medium screens sizes from 1710px wide and down */
 @media screen and (max-width: 1710px) {
 
 
@@ -364,6 +364,7 @@ input[type=submit]:hover {
    
     #menu {
         font-size: 100%;
+        padding: 4%;
     }
 
     #photos {
@@ -389,10 +390,6 @@ input[type=submit]:hover {
        label {
         font-size: 80%;
        }
-   
-        footer {
-        height: 150px;
-       }
        
        .hero-image {
         height: 150px;
@@ -403,13 +400,9 @@ input[type=submit]:hover {
         padding: 0.5%;
        }
 
-        #logo {
-        font-size: 125%;
-       }
-       
         #menu {
             font-size: 90%;
-            padding: 3%;
+          
         }
    
         #photos {
@@ -423,34 +416,8 @@ input[type=submit]:hover {
 /* For smaller screen sizes from 610px wide and down */
 
 @media screen and (max-width: 610px) {
-
-    h2 {
-        font-size: 90%;
-       }
-   
-        ul {
-        font-size: 70%;
-       }
-   
-        footer {
-        height: 150px;
-       }
-       
-       .hero-image {
-        height: 150px;
-       }
-   
-       .column {
-        width: 49.99999%;
-        padding: 0.5%;
-       }
-
-        #logo {
-        font-size: 100%;
-       }
        
         #menu {
-            font-size: 90%;
             padding: 5%;
         }
    
@@ -464,7 +431,30 @@ input[type=submit]:hover {
         font-size: 70%;
        }
    
-        ul {
+        footer {
+        height: 125px;
+       }
+       
+       .hero-image {
+        height: 125px;
+       }
+       
+       #menu {
+        font-size: 80%;
+        padding: 6%;
+       }
+
+#menu > li {
+    padding-right: 2%;
+}
+
+} 
+
+/* For smaller screen sizes from 310px wide and down */
+
+@media screen and (max-width: 310px) {
+
+    h2 {
         font-size: 70%;
        }
    
@@ -475,50 +465,10 @@ input[type=submit]:hover {
        .hero-image {
         height: 125px;
        }
-   
-       .column {
-        width: 49.99999%;
-        padding: 0.5%;
-       }
-
-        #logo {
-        font-size: 85%;
-       }
        
-#menu > li {
-    padding-right: 2%;
+#menu {
+    font-size: 70%;
+    padding: 7%;
 }
 
 } 
-
-
-/* For smaller screen sizes from 445px wide and down */
-
-@media screen and (max-width: 445px) {
-
-h2 {
-    font-size: 60%;
-   }
-
-    ul {
-    font-size: 60%;
-   }
-
-    footer {
-    height: 125px;
-   }
-   
-   .hero-image {
-    height: 125px;
-   }
-
-    #logo {
-    font-size: 70%;
-   }
-   
-    #menu {
-        font-size: 70%;
-        padding-right: 20%;
-    }
-
-}

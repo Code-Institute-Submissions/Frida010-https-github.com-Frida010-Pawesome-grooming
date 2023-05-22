@@ -418,7 +418,6 @@ input[type=submit]:hover {
         }
  
 
-
 }
 
 /* For smaller screen sizes from 610px wide and down */
@@ -486,16 +485,40 @@ input[type=submit]:hover {
         font-size: 85%;
        }
        
-        #menu {
-            font-size: 70%;
-            padding: 5%;
-        }
-   
-      
-
+#menu > li {
+    padding-right: 2%;
+}
 
 } 
 
-/* For smaller screen sizes from 450px wide and down */
 
-@media screen and (max-width: 450px)
+/* For smaller screen sizes from 445px wide and down */
+
+@media screen and (max-width: 445px) {
+
+h2 {
+    font-size: 60%;
+   }
+
+    ul {
+    font-size: 60%;
+   }
+
+    footer {
+    height: 125px;
+   }
+   
+   .hero-image {
+    height: 125px;
+   }
+
+    #logo {
+    font-size: 70%;
+   }
+   
+    #menu {
+        font-size: 70%;
+        padding-right: 20%;
+    }
+
+}

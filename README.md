@@ -67,6 +67,49 @@ The website also have a gallery whit beautiful pictures of dogs, and a page for 
 
 
 ![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240274004-5516d0f9-03ee-46d7-8c38-5522d47fef1e.png)
+## Testing
+- I tested this website in different browsers: Safari, Crome and Firefox.
+- I confirmed that this website looks good on different screen sizes using the devtools device toolbar. 
+- I confirmed that this websites navigation, header, sections, gallery and book now page are readable and easy to understand.  
+- I have confirmed that the form works on book now page: requiers entries in every field, will only accept email in email field and the submition button works. 
+
+### Bugs
+- A bug that I am aware of is that when the user fill in the form and click the "Book now!" button, an error messege will apear "405 Not Allowed". 
+- This bug maybe I will fix later when I know how to write that type of code. 
+
+### Validator Testing
+
+#### HTML
+- Errors returned when passed through the official W3C validator was Error duplicate ID for fname, lname and email.  
+- Deleted the id:s for fname, lname and email in label element on booknow.html page to fix the error. 
+- After that no errors were found by W3C validator. 
+
+#### CSS
+- No errors were returned when passing through the official Jigsaw validator. 
+
+#### Accessibility
+- I confirmed that the fonts and colors used on the website are easy to read and accessible by running it through lighthouse in devtools. 
+
+
+![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240354381-66ecd364-a9df-4332-87c1-25fac1a7c561.png)
+### Unfixed bugs
+
+- No unfixed bugs. 
+## Deployment
+## Credits
+
+In the proccess of making this webpage I have used Code Institutes videos and course material to help me with how to write some of the code. 
+
+### Content
+-
+-
+-
+
+### Media
+-
+-
+-
+
 
 
 

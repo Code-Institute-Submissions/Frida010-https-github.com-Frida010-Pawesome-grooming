@@ -51,6 +51,22 @@ The website also have a gallery whit beautiful pictures of dogs, and a page for 
 
 
 ![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240261458-9d13d883-7322-46eb-9b51-2b1f057c25aa.png)
+## Gallery
+
+- The gallery contains images of dogs, some of dogs getting a haircut, some of dogs getting a bath and some of beautiful groomed dogs. 
+- Some of the images have a pink background and some have blue details. And this is used to make a pattern and make the gallery more alive. 
+- The gallery have the same header and footer as the homepage and the images have the same background color as the first and second section on homepage to make the website coherent. 
+
+
+![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240269693-36cef54c-5cd5-41b2-a9d4-5b0d8c9203b8.png)
+## Book now 
+
+- The book now page has a form for the customers to fill in and book a grooming for their dog. 
+- The form collects the dog owners firstname, lastname, email and what weekday and time the owner will book. 
+- The book now page have the same style as the rest of the website, and the header and footer is of course the same as the rest of the pages on this website. 
+
+
+![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240274004-5516d0f9-03ee-46d7-8c38-5522d47fef1e.png)
 
 
 

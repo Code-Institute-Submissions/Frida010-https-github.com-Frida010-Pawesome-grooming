@@ -42,7 +42,8 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 - The Our services divition tells the user which services are offered and available.
 - The Address divition tells the user where the dog groomers premises are located. 
 - The Contact us divition gives the user the contact information to the company. 
-- This section is surrounded the same way as the first section to make the website feel coherent.  
+- This section is surrounded the same way as the first section to make the website feel coherent. 
+- Used icons from Font awesome to make the headings in this section  
 
 
 ![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240256588-26c75357-d96e-4ec0-a9c2-1dd2c5d8ec70.png)

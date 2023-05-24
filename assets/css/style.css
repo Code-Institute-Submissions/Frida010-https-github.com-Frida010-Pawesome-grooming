@@ -137,7 +137,7 @@ h2 {
 #services,
 #address,
 #contact {
-    float: center;
+   
     text-align: center;
     margin-top: 2%;
     background-color: #b4b6bc;
@@ -146,7 +146,7 @@ h2 {
 
 #about
 {
-    float: center;
+
     text-align: center;
     margin-top: 0;
     background-color: #b4b6bc;

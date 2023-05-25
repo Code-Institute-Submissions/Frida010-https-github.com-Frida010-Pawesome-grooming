@@ -12,7 +12,7 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 
 
 
-![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/240224368-f3df4d6c-56c3-4511-86f6-7504b14fc42b.png)
+![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/240865624-344c9723-ae7c-4911-a089-73bfa3972592.png)
 
 
 ## Features
@@ -26,7 +26,7 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 
 
 
-![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240234347-cce2a09d-5ead-4da6-b04f-ab8b63c1c9e8.png)
+![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240865730-83475b37-3cff-4d32-9df0-1e6f9de64593.png)
 #### The First Section
 
 - The first section contains four images of different dogs and gives the user an extra additional clarification of what the website is for. 
@@ -34,7 +34,7 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 - The images lie horizontally next to each other and have a background color that makes them feel more coherent 
 
 
-![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240246270-81552f50-e2fc-4462-80d7-0d371ac00f3c.png)
+![Screenshot of the row picture section](https://user-images.githubusercontent.com/129947589/240865800-1733538a-2c3a-4cb0-870d-5fc34f29fb78.png)
 #### The Second Section
 
 - The second section contains the information "About us" "Our services" "Adress" and "Contact us"
@@ -46,13 +46,13 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 - Used icons from Font awesome to make the headings in this section  
 
 
-![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240256588-26c75357-d96e-4ec0-a9c2-1dd2c5d8ec70.png)
+![Screenshot of the about us, our services, address and contact us](https://user-images.githubusercontent.com/129947589/240256588-26c75357-d96e-4ec0-a9c2-1dd2c5d8ec70.png)
 ## Footer section
 - The footer section have the same background image as the logo to keep the website coherent. 
 -  The footer contains clickable social media links for the user to find the company on facebook, tiktok, instagram and youtube. 
 
 
-![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240261458-9d13d883-7322-46eb-9b51-2b1f057c25aa.png)
+![Screenshot of the footer section with social media links](https://user-images.githubusercontent.com/129947589/240261458-9d13d883-7322-46eb-9b51-2b1f057c25aa.png)
 ## Gallery
 
 - The gallery contains images of dogs, some of dogs getting a haircut, some of dogs getting a bath and some of beautiful groomed dogs. 
@@ -61,7 +61,7 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 - One thing that I would like to fix in the future is to make the gallery look better on different screen sizes. Because I don't think the order of the pictures looks so good on smaller screens. But it is good enough for now. 
 
 
-![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240269693-36cef54c-5cd5-41b2-a9d4-5b0d8c9203b8.png)
+![Screenshot of the gallery.html page](https://user-images.githubusercontent.com/129947589/240865838-bf0497f3-8e7c-4467-b7f0-202d6ebc3a82.png)
 ## Book now 
 
 - The book now page has a form for the customers to fill in and book a grooming for their dog. 
@@ -69,7 +69,7 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 - The book now page have the same style as the rest of the website, and the header and footer is of course the same as the rest of the pages on this website. 
 
 
-![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240274004-5516d0f9-03ee-46d7-8c38-5522d47fef1e.png)
+![Screenshot of the booknow.html page](https://user-images.githubusercontent.com/129947589/240865878-3ee40877-e969-414a-9f19-0789b1211da4.png)
 ## Testing
 - I tested this website in different browsers: Safari, Crome and Firefox.
 - I confirmed that this website looks good on different screen sizes using the devtools device toolbar. 

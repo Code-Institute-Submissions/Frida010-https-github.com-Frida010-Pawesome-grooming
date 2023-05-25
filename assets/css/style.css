@@ -450,6 +450,23 @@ input[type=submit]:hover {
 
 } 
 
+/* For smaller screen sizes from 450px wide and down */
+
+@media screen and (max-width: 450px) {
+
+
+#menu > li {
+    float: none;
+    margin: 0.7%;
+}
+
+nav > ul {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+} 
+
 /* For smaller screen sizes from 310px wide and down */
 
 @media screen and (max-width: 310px) {

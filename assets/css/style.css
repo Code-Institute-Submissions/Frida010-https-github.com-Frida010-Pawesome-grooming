@@ -206,8 +206,6 @@ img {
 
 /* Book Now page */
 
-
-
 .booknow {
 
     margin: 2%;
@@ -245,6 +243,9 @@ input[type=submit]:hover {
     background-color: #353434;
 }
 
+#book_now {
+    background-color: #a42340;
+}
 
 /* media queries */
 

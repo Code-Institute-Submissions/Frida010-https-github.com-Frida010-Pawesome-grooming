@@ -2,11 +2,11 @@
 
 # Pawesome Gromming
 
-The Pawesome grooming website is a page for dog owners looking for a place to get their dogs trimmed and groomed. 
-On this webpage you will be able to find information about the services offerd, and pictures of dogs. 
+The Pawesome grooming website is a page for dog owners looking for a place to get their dogs cleaned, trimmed and groomed. 
+On this webpage you will be able to find information about the services offerd, and pictures of beautiful grommed dogs. 
 
 Users of this website will be able to find information about the services offerd, an about us section, our services section, adress and contact information. 
-The website also have a gallery with beautiful pictures of dogs, and a page for signing up for a grooming of your dog. 
+The website also have a gallery with beautiful pictures of dogs, and a page to signing up for a grooming of your dog. 
 
 
 
@@ -19,9 +19,9 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 
 #### Navigation
 - At the top of the page you have the name of the company: Pawesome Gromming. When the logo is clicked you go back to the homepage.  
-- On the right side of the page under the logo you have the navigation links to the Homepage, Gallery page and to the Book now page.
+- On the right side of the page under the logo you have the navigation links to the Homepage, About us section, Gallery page and to the Book now page.
 - The navigation is in a font that looks clean and modern, and have a color that contrasts the background. 
-- The navigation tells the user the name of the company and were to find what the user is looking for. 
+- The navigation tells the user were to find what the user is looking for. 
 
 
 
@@ -31,7 +31,7 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 
 - The first section contains four images of different dogs and gives the user an extra additional clarification of what the website is for. 
 - The images are there to entice the reader to want to know more.
-- The images lie horizontally next to each other and have a background color that makes them feel more coherent 
+- The images lie horizontally next to each other and have a background color that makes them feel more coherent and connected. 
 
 
 ![Screenshot of the row picture section](https://user-images.githubusercontent.com/129947589/240865800-1733538a-2c3a-4cb0-870d-5fc34f29fb78.png)
@@ -43,13 +43,13 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 - The Address divition tells the user where the dog groomers premises are located. 
 - The Contact us divition gives the user the contact information to the company. 
 - This section is surrounded the same way as the first section to make the website feel coherent. 
-- Used icons from Font awesome to make the headings in this section  
+- Used icons from Font awesome to make the headings in this section more clear and playful
 
 
 ![Screenshot of the about us, our services, address and contact us](https://user-images.githubusercontent.com/129947589/240256588-26c75357-d96e-4ec0-a9c2-1dd2c5d8ec70.png)
 ## Footer section
 - The footer section have the same background image as the logo to keep the website coherent. 
--  The footer contains clickable social media links for the user to find the company on facebook, tiktok, instagram and youtube. 
+- The footer contains clickable social media links for the user to find the company on facebook, tiktok, instagram and youtube. 
 
 
 ![Screenshot of the footer section with social media links](https://user-images.githubusercontent.com/129947589/240261458-9d13d883-7322-46eb-9b51-2b1f057c25aa.png)
@@ -71,7 +71,7 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 
 ![Screenshot of the booknow.html page](https://user-images.githubusercontent.com/129947589/240865878-3ee40877-e969-414a-9f19-0789b1211da4.png)
 ## Testing
-- I tested this website in different browsers: Safari, Crome and Firefox.
+- I tested this website in different browsers: Safari, Crome and Firefox and it works. 
 - I confirmed that this website looks good on different screen sizes using the devtools device toolbar. 
 - I confirmed that this websites navigation, header, sections, gallery and book now page are readable and easy to understand.  
 - I have confirmed that the form works on book now page: requiers entries in every field, will only accept email in email field and the submition button works. 
@@ -96,12 +96,12 @@ The website also have a gallery with beautiful pictures of dogs, and a page for 
 - I confirmed that the fonts and colors used on the website are easy to read and accessible by running it through lighthouse in devtools. 
 
 
-![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240354381-66ecd364-a9df-4332-87c1-25fac1a7c561.png)
+![Screenshot of the lighthouse in devtools](https://user-images.githubusercontent.com/129947589/240354381-66ecd364-a9df-4332-87c1-25fac1a7c561.png)
 
 ### Unfixed bugs
 
 - I have one unfixed bug on this website and that is the one I mentioned earlier in this README file. _"An bug that I am aware of is that when the user fill in the form and click the "Book now!" button, an error messege will apear "405 Not Allowed"."_
-- I chose not to fix that bug because Pawesome Gromming doesn't exist as an physical location/business and therefore there is no reason to book an appointment. And because I don't have the knowledge yet to be able to make it work. But maybe in the future when I know how to do that type of code I will fix that problem. 
+- I chose not to fix that bug because Pawesome Gromming doesn't exist as an physical location/business and therefore there is no reason to book an appointment. And because I don't have the knowledge yet to be able to make it work. But maybe in the future when I know how to do that type of code I can fix that problem. 
 
 ## Deployment
 
@@ -116,13 +116,15 @@ The live link can be found here - https://frida010.github.io/https-github.com-Fr
 
 
 ### Content
-- In the proccess of making this webpage I have used [Code Institute](https://codeinstitute.net/) videos and course material to help me with how to write some of the code. I used The Love Running project as inspiration in this, my first project. 
-- I also used [W3Schools](https://www.w3schools.com/) as my help on how to write the majority of the code on this website. 
+- In the proccess of making this webpage I have used [Code Institute](https://codeinstitute.net/) videos and course material to help me and remind me of how to write some of the code. 
+- Used [W3Schools](https://www.w3schools.com/) as my help on how to write the some of the code on this website. 
 - The Fonts on the website were taken from [Google fonts](https://fonts.google.com/).
-- I also used [Codecademy](https://www.codecademy.com/) as help with how to write some of the code on this website. 
-- I have also used [Developer Mozilla](https://developer.mozilla.org/en-US/) as help with how to write some of the code on this website. 
+- Used [Codecademy](https://www.codecademy.com/) as help with how to write some of the code on this website. 
+- Used [Developer Mozilla](https://developer.mozilla.org/en-US/) as help with how to write some of the code on this website. 
 - Introduction on how to insert images to this README file was taken from this youtube video made by [Sean C Davis](https://www.youtube.com/watch?v=Ljj1wGFJqPY&ab_channel=SeanCDavis).
-- As inspiration I also used [Pinterest](https://www.pinterest.com/). 
+- Used [Stack overflow](https://stackoverflow.com/questions/39217732/is-it-possible-to-change-the-order-of-list-items-using-css3) as help with how to change the order of list items. 
+- Used [Stack overflow](https://stackoverflow.com/questions/17687328/getting-a-link-to-go-to-a-specific-section-on-another-page) as help with how to link to a specific section on another page of the website. 
+- As inspiration I also looked on [Pinterest](https://www.pinterest.com/). 
 
 ### Media
 - The icons in the homepage section and the footer were taken from [Font awesome](https://fontawesome.com/)

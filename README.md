@@ -96,7 +96,7 @@ The website also have a gallery with beautiful pictures of dogs, and a page to s
 - I confirmed that the fonts and colors used on the website are easy to read and accessible by running it through lighthouse in devtools. 
 
 
-![Screenshot of the lighthouse in devtools](https://user-images.githubusercontent.com/129947589/240354381-66ecd364-a9df-4332-87c1-25fac1a7c561.png)
+![Screenshot of the lighthouse in devtools](https://user-images.githubusercontent.com/129947589/240895363-6878a763-24ad-493b-98e6-08808cf51bed.png)
 
 ### Unfixed bugs
 

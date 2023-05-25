@@ -1,75 +1,59 @@
-
-
 # Pawesome Gromming
 
 The Pawesome grooming website is a page for dog owners looking for a place to get their dogs cleaned, trimmed and groomed. 
-On this webpage you will be able to find information about the services offered, and pictures of beautiful grommed dogs. 
+On this webpage you will be able to find information about the services offered, and pictures of beautiful groomed dogs. 
 
 Users of this website will be able to find information about the services offered, about us section, our services section, address and contact information. 
 The website also has a gallery with beautiful pictures of dogs, and a page to sign up for a grooming of your dog. 
 
-
-
-
-
-![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/240865624-344c9723-ae7c-4911-a089-73bfa3972592.png)
-
+![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/240970731-6b7d71e9-f187-470c-b0c7-64016dfd34f4.png)
 
 ## Features
 
 #### Navigation
-- At the top of the page you have the name of the company: Pawesome Gromming. When the logo is clicked you go back to the homepage.  
-- On the right side of the page under the logo you have the navigation links to the Homepage, About us section, Gallery page and to the Book now page.
+- At the top of the page you have the name of the company: Pawesome Grooming. When this logo is clicked you go back to the homepage.  
+- On the right side of the page under the logo you have the navigation links to the Homepage, About us section, Gallery page and the Book now page.
 - The navigation is in a font that looks clean and modern, and has a color that contrasts the background. 
 - The navigation tells the user were to find what the user is looking for. 
 
-
-
-
-![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240865730-83475b37-3cff-4d32-9df0-1e6f9de64593.png)
+![Screenshot of the head of the page with the navigation links](https://user-images.githubusercontent.com/129947589/240970784-042dbf01-195d-4836-bf91-9b02ec888a7b.png)
 #### The First Section
 
 - The first section contains four images of different dogs and gives the user an extra additional clarification of what the website is for. 
 - The images are there to entice the reader to want to know more.
 - The images lie horizontally next to each other and has a background color that makes them feel more coherent and connected. 
 
-
 ![Screenshot of the row picture section](https://user-images.githubusercontent.com/129947589/240865800-1733538a-2c3a-4cb0-870d-5fc34f29fb78.png)
 #### The Second Section
 
 - The second section contains the information "About us" "Our services" "Address" and "Contact us"
-- The About us divition tells the user about some important criteria that the company is proud to offer its customers. 
+- The About us divition tells the user about some important criteria that the company is proud of to offer its customers. 
 - The Our services divition tells the user which services are offered and available.
 - The Address divition tells the user where the dog groomers premises are located. 
 - The Contact us divition gives the user the contact information to the company. 
-- This section is surrounded the same way as the first section to make the website feel coherent. 
-- Used icons from Font awesome to make the headings in this section more clear and playful
-
+- This section is surrounded the same way as the first section to make the website feel consistent. 
+- Used icons from Font awesome to make the headings in this section more clear and lively.
 
 ![Screenshot of the about us, our services, address and contact us](https://user-images.githubusercontent.com/129947589/240256588-26c75357-d96e-4ec0-a9c2-1dd2c5d8ec70.png)
 ## Footer section
 - The footer section has the same background image as the logo to keep the website coherent. 
 - The footer contains clickable social media links for the user to find the company on facebook, tiktok, instagram and youtube. 
 
-
 ![Screenshot of the footer section with social media links](https://user-images.githubusercontent.com/129947589/240261458-9d13d883-7322-46eb-9b51-2b1f057c25aa.png)
 ## Gallery
 
 - The gallery contains images of dogs, some of dogs getting a haircut, some of dogs getting a bath and some of beautiful groomed dogs. 
 - Some of the images has a pink background and some have blue details. And this is used to make a pattern and make the gallery more vivid. 
-- The gallery has the same header and footer as the homepage and the images have the same background color as the first and second section on the homepage to make the website coherent. 
-- One thing that I would like to fix in the future is to make the gallery look better on different screen sizes. Because I don't think the order of the pictures looks so good on smaller screens. But it is good enough for now. 
+- The gallery has the same header and footer as the homepage and the images have the same background color as the first and second section on the homepage to make the website coherent.  
 
-
-![Screenshot of the gallery.html page](https://user-images.githubusercontent.com/129947589/240865838-bf0497f3-8e7c-4467-b7f0-202d6ebc3a82.png)
+![Screenshot of the gallery.html page](https://user-images.githubusercontent.com/129947589/240970839-dc7a90b5-b0cd-4c89-b5b5-c0d2a7e3112c.png)
 ## Book now 
 
 - The book now page has a form for the customers to fill in and book an appointment to have their dog groomed. 
 - The form collects the dog owners firstname, lastname, email and what weekday and time the owner will book. 
-- The book now page has the same style as the rest of the website, the header and footer is of course the same as the rest of the pages on this website. 
+- The book now page has the same style as the rest of the website, the header and footer is the same as the rest of the pages on this website. 
 
-
-![Screenshot of the booknow.html page](https://user-images.githubusercontent.com/129947589/240865878-3ee40877-e969-414a-9f19-0789b1211da4.png)
+![Screenshot of the booknow.html page](https://user-images.githubusercontent.com/129947589/240970893-e6322eaa-a27c-4ac9-8d15-246bec71de03.png)
 ## Testing
 - I tested this website in different browsers: Safari, Crome and Firefox and it works. 
 - I confirmed that this website looks good on different screen sizes using the devtools device toolbar. 
@@ -90,18 +74,17 @@ The website also has a gallery with beautiful pictures of dogs, and a page to si
 #### CSS
 - Errors returned when passing trough the official (Jigsaw) validator was "_Value Error : float center is not a float value : center_" for #services, #address, #contact and #about
 - Deleted the float center value in the style.css. 
-- After that no errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-frida010-https-githubco-u98cxrzf2k.us2.codeanyapp.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- After that no errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-frida010-https-githubco-u98cxrzf2k.us2.codeanyapp.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
 #### Accessibility
 - I confirmed that the fonts and colors used on the website are easy to read and accessible by running it through lighthouse in devtools. 
-
 
 ![Screenshot of the lighthouse in devtools](https://user-images.githubusercontent.com/129947589/240895363-6878a763-24ad-493b-98e6-08808cf51bed.png)
 
 ### Unfixed bugs
 
 - I have one unfixed bug on this website and that is the one I mentioned earlier in this README file. _"A bug that I am aware of is that when the user fill in the form and click the "Book now!" button, an error messege will apear "405 Not Allowed"."_
-- I chose not to fix that bug because Pawesome Gromming doesn't exist as an physical location/business and therefore there is no reason to book an appointment. And because I don't have the knowledge yet to be able to make it work. But maybe in the future when I know how to do that type of code I can fix that problem. 
+- I chose not to fix that bug because Pawesome Grooming doesn't exist as an real physical location/business and therefore there is no reason to book an appointment. And because I don't have the knowledge yet to be able to make it work. But maybe in the future when I know how to write that type of code I can fix that problem. 
 
 ## Deployment
 
@@ -113,7 +96,6 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 The live link can be found here - https://frida010.github.io/https-github.com-Frida010-Project-01/
 
 ## Credits
-
 
 ### Content
 - In the proccess of making this webpage I have used [Code Institute](https://codeinstitute.net/) videos and course material to help me and remind me of how to write some of the code. 

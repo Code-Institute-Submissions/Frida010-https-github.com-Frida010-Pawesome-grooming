@@ -63,6 +63,8 @@ The website also has a gallery with beautiful pictures of dogs, and a page to si
 ### Bugs
 - A bug that I am aware of is that when the user fills in the form and clicks the "Book now!" button, an error messege will apear "405 Not Allowed". 
 
+![Screenshot of error message](https://user-images.githubusercontent.com/129947589/240978111-62745bf6-40f5-49f1-bc52-62114f29548e.png)
+
 ### Validator Testing
 
 #### HTML

@@ -226,6 +226,7 @@ select {
     border: 1px solid #262626;
     border-radius: 50px;
     box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
 }
 
 input[type=submit] {
@@ -237,14 +238,11 @@ input[type=submit] {
     border: 1px solid #262626;
     border-radius: 50px;
     cursor: pointer;
+    font-family: 'Quicksand', sans-serif;
 }
 
 input[type=submit]:hover {
     background-color: #353434;
-}
-
-#book_now {
-    background-color: #a42340;
 }
 
 /* media queries */

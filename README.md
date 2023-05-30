@@ -61,9 +61,8 @@ The website also has a gallery with beautiful pictures of dogs, and a page to si
 - I have confirmed that the form works on book now page: requiers entries in every field and will only accept email in email field and the submition button works. 
 
 ### Bugs
-- A bug that I am aware of is that when the user fills in the form and clicks the "Book now!" button, an error messege will apear "405 Not Allowed". 
+- A bug that I fixed was that when the user filled in the form and clicked the "Book now!" button, an error messege apeared "405 Not Allowed". I fixed that by adding Code Institutes formdump link to the booknow.html form action. After that no error or bugs did appear. 
 
-![Screenshot of error message](https://user-images.githubusercontent.com/129947589/240978111-62745bf6-40f5-49f1-bc52-62114f29548e.png)
 
 ### Validator Testing
 
@@ -81,12 +80,11 @@ The website also has a gallery with beautiful pictures of dogs, and a page to si
 #### Accessibility
 - I confirmed that the fonts and colors used on the website are easy to read and accessible by running it through lighthouse in devtools. 
 
-![Screenshot of the lighthouse in devtools](https://user-images.githubusercontent.com/129947589/240895363-6878a763-24ad-493b-98e6-08808cf51bed.png)
+![Screenshot of the lighthouse in devtools](https://user-images.githubusercontent.com/129947589/241943628-01c87c37-b121-4746-b564-b03458af9977.png)
 
 ### Unfixed bugs
 
-- I have one unfixed bug on this website and that is the one I mentioned earlier in this README file. _"A bug that I am aware of is that when the user fill in the form and click the "Book now!" button, an error messege will apear "405 Not Allowed"."_
-- I chose not to fix that bug because Pawesome Grooming doesn't exist as an real physical location/business and therefore there is no reason to book an appointment. And because I don't have the knowledge yet to be able to make it work. But maybe in the future when I know how to write that type of code I can fix that problem. 
+- I do not have any unfixed bugs on this website. 
 
 ## Deployment
 

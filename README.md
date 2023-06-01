@@ -69,13 +69,13 @@ The website also has a gallery with beautiful pictures of dogs, and a page to si
 #### HTML
 - Errors returned when passed through the official W3C validator was Error duplicate ID for fname, lname and email.  
 - Deleted the id:s for fname, lname and email in label element in booknow.html page to fix the error. 
-- After that no errors were found by the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fhttps-github.com-Frida010-Project-01%2F). 
+- After that no errors were found by the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fhttps-github.com-Frida010-Pawesome-grooming%2F). 
 - However, there is a warning message from the validator about missing headings on the homepage. 
 
 #### CSS
 - Errors returned when passing trough the official (Jigsaw) validator was "_Value Error : float center is not a float value : center_" for #services, #address, #contact and #about
 - Deleted the float center value in the style.css. 
-- After that no errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-frida010-https-githubco-u98cxrzf2k.us2.codeanyapp.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
+- After that no errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffrida010.github.io%2Fhttps-github.com-Frida010-Pawesome-grooming%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
 #### Accessibility
 - I confirmed that the fonts and colors used on the website are easy to read and accessible by running it through lighthouse in devtools. 
@@ -93,7 +93,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - From the source section drop-down menu, select the Master Branch
 - Once the master branch has been selected, the page provided the link to the completed website.
 
-The live link can be found here - https://frida010.github.io/https-github.com-Frida010-Project-01/
+The live link can be found here - https://frida010.github.io/https-github.com-Frida010-Pawesome-grooming/
 
 ## Credits
 
